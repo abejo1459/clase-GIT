@@ -1,4 +1,4 @@
 # clase-GIT (primera modificacion)
 
 ## Presentacion 
-Hola aventureros
+Hola aventureros, bienvenidos a mi ridmi
