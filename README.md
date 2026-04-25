@@ -1,1 +1,4 @@
-# clase-GIT
+# clase-GIT (primera modificacion)
+
+## Presentacion 
+Hola aventureros
